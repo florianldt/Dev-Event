@@ -315,6 +315,10 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`, `블록체인`
   - 주최: iM뱅크
   - 접수: 08. 21(금) ~ 09. 20(일) 23:59
+- __[Shipaton 2026: Seoul (Dev Korea #14)](https://dev-korea.com/events/dev-korea-14-september-2026)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `기술일반`
+  - 주최: Dev Korea / RevenueCat
+  - 접수: 08. 15(토) ~ 09. 21(월)
 - __[2026 K-조선 해커톤](https://event-us.kr/koshiphackathon/event/132963)__
   - 분류: `온라인`, `오프라인(서울 서초구)`, `무료`, `대회`, `AI`
   - 주최: 산업통상부 / 한국산업기술진흥원(KIAT) / 한국조선해양플랜트협회
